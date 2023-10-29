@@ -64,8 +64,8 @@ public String getBookByName(@RequestParam String name) {
 
 0. wedwed
 1. wefwefew
-    1. cwdcwewe
-    2. wefwefw
+    1.1 cwdcwewe
+    1.2 wefwefw
 
 
 1 `Throwable`: Это базовый класс для всех классов ошибок и исключений в Java.
