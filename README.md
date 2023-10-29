@@ -1,14 +1,10 @@
 <details>
   <summary>What's the difference between @Controller and @RestController</summary><br>
-
-
     Purpose:
         - @Controller created for MVC application
         - @RestController created for API application
-
         - @Controller will be handle on frontend side, by way of Thymeleaf, that why we get error if we try to return List<> for example
         - @RestController will not handle on frontent side and will be transform to json by way of Jackson .json .xml
-
     Response Type:
         - @Controller typicaly return VIEW NAME, for return directly data we have to use ANNOTATION @ResponseBody
         - @RestController all methods already annotated @ResponseBody
