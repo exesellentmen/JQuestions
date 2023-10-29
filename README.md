@@ -52,6 +52,7 @@ public String getBookByName(@RequestParam String name) {
 `Exceptions` - is a message that we get after uncorrect app working
 
 </details>
+
 ------------------------------------------------------------
 
 
@@ -94,4 +95,5 @@ public String getBookByName(@RequestParam String name) {
 
 
 </details>
+
 ------------------------------------------------------------
