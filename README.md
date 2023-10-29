@@ -1,6 +1,7 @@
 <details>
   <summary>What's the difference between @Controller and @RestController</summary><br>
 ## Purpose
+## Purpose
 
 This project contains the source code for a Java-based application that follows the Model-View-Controller (MVC) architecture and provides an API for various operations. Here's a brief overview of its purpose:
 
