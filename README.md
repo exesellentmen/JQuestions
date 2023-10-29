@@ -39,15 +39,17 @@ Here are some of the key annotations used in this project:
 @Controller
 @RestController
 @ResponseBody
+
 @RequestMapping("/api/books")
 public class BookController {
     //...
-    
-    @GetMapping("/search")
-    public String getBookByName(@RequestParam String name) {
-        //...
-    }
+}    
+
+@GetMapping("/search")
+public String getBookByName(@RequestParam String name) {
+    //...
 }
+
 ```
   
 </details>
