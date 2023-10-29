@@ -61,6 +61,15 @@ public String getBookByName(@RequestParam String name) {
     2.1 Exception hierarchy
   </summary><br>
 
+1. Main Item 1
+   1.1. Sub-item 1.1
+   1.2. Sub-item 1.2
+      1.2.1. Sub-sub-item 1.2.1
+2. Main Item 2
+   2.1. Sub-item 2.1
+   2.2. Sub-item 2.2
+
+
 1 `Throwable`: Это базовый класс для всех классов ошибок и исключений в Java.
 
 1.1 `Error`: Этот подкласс Throwable представляет серьезные ошибки, которые обычно невозможно обработать. Это внутренние ошибки JVM и другие критические ситуации.
