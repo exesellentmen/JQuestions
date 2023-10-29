@@ -62,10 +62,13 @@ public String getBookByName(@RequestParam String name) {
   </summary><br>
 
 1. Main Item 1
+
    1.1. Sub-item 1.1
+
    1.2. Sub-item 1.2
-      1.2.1. Sub-sub-item 1.2.1
-2. Main Item 2
+
+     1.2.1. Sub-sub-item 1.2.1
+3. Main Item 2
    2.1. Sub-item 2.1
    2.2. Sub-item 2.2
 
