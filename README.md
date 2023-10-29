@@ -61,16 +61,10 @@ public String getBookByName(@RequestParam String name) {
     2.1 Exception hierarchy
   </summary><br>
 
-1. Main Item 1
-
-   1.1. Sub-item 1.1
-
-   1.2. Sub-item 1.2
-
-     1.2.1. Sub-sub-item 1.2.1
-3. Main Item 2
-   2.1. Sub-item 2.1
-   2.2. Sub-item 2.2
+1. A numbered list
+  1.1 A nested numbered list
+2. Which is numbered
+  2.1 Which is numbered
 
 
 1 `Throwable`: Это базовый класс для всех классов ошибок и исключений в Java.
