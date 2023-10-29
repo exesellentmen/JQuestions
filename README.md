@@ -1,5 +1,5 @@
 <details>
-  <summary>What's the difference between @Controller and @RestController</summary><br>
+  <summary>What's the difference between `@Controller` and `@RestController`</summary><br>
 
 
 
